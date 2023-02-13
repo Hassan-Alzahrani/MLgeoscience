@@ -6,7 +6,6 @@ channels:
 dependencies:
   - python=3.9
   - pip
-  - nbviewer
   - numpy>=1.15.0
   - scipy>=1.4.0
   - cudatoolkit=11.3
